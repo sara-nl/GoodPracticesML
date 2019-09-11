@@ -4,9 +4,9 @@ This repo holds the contents for the 2nd day of the course on "Good Practices fo
 
 ### Hands On Session 
 
-Part 1 : **Introduction to NumPy, Pandas and Matplotlib** \ 
-Part 2 : **Data Modelling** \ 
-Part 3 : **Data Science Challenge** \
+Part 1 : **Introduction to NumPy, Pandas and Matplotlib**   
+Part 2 : **Data Modelling**  
+Part 3 : **Data Science Challenge**  
 
 ### Connecting to National Compute Cluster : LISA 
 
