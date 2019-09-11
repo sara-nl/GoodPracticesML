@@ -23,7 +23,9 @@ For both windows and Linux users.
 2. git clone the repo :
    `git clone https://github.com/sara-nl/GoodPracticesML.git`
 
-3. execute the script by submitting to the slurm resource manager : 
+3. `cd GoodPracticesML`
+
+4. execute the script by submitting to the slurm resource manager : 
    `sbatch prepare_jupter_env.sh`
 
 If successful everybody should be able to open jupyter lab.
