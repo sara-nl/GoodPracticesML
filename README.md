@@ -14,6 +14,9 @@ Part 3 : **Data Science Challenge**  (15:00-17:00)
 
 We will connect to national compute cluster for executing script for rest of the day. Please follow below steps to connect to LISA
 
+For both windows and Linux users. 
+
+0. Open the terminal
 
 1. `ssh sdemoxxx@lisa.surfsara.nl`
 
@@ -23,6 +26,7 @@ We will connect to national compute cluster for executing script for rest of the
 3. execute the script by submitting to the slurm resource manager : 
    `sbatch prepare_jupter_env.sh`
 
+If successful everybody should be able to open jupyter lab.
  
 
 
