@@ -29,4 +29,6 @@ For both windows and Linux users.
 If successful everybody should be able to open jupyter lab.
  
 
+### Reverse tunneling to LISA 
 
+ssh -L 5xxx:localhost:5xxx sdemoxxx@login4.lisa.surfsara.nl
